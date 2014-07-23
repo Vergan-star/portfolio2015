@@ -486,10 +486,11 @@ header .carousel-indicators li {
 }
 
 .purchase h4{
-	color: #ffffff;
+	color: #00a398;
 	text-transform: uppercase;
 	font-weight: 300;
 	text-align:center;
+	padding:10px 0px 0px 0px;
 }
 
 .purchase .circle{
@@ -509,6 +510,12 @@ header .carousel-indicators li {
 }
 .circle-two-color {
     background-color: #008080;
+}
+.circle-three-color {
+    background-color: #00a6a6;
+}
+.circle-four-color {
+    background-color: #37cf7f;
 }
 .ativo{
 	background-color: #fd3f04;
