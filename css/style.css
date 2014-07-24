@@ -319,6 +319,7 @@ header .carousel-indicators li {
 	overflow: hidden;
 	padding: 50px 0px 0px 0px;
 	min-height: 500px;
+	text-align:left;
 }
 
 .detail .title{
