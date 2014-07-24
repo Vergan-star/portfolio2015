@@ -498,9 +498,9 @@ header .carousel-indicators li {
 	margin-right: auto;
 	margin-left: auto;
 	padding-top: 33px;
-	width: 150px;
-	height: 150px;
-	border-radius: 100%;
+	width: 130px;
+	height: 130px;
+	border-radius: 80%;
 	text-align: center;
 
 	
