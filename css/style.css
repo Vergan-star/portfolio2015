@@ -128,7 +128,6 @@ header h1,
 }
 
 /*---- Background ----*/
-.features,
 .detail .carousel-indicators .active {
 	background: #0bf397;	
 }
@@ -481,9 +480,10 @@ header .carousel-indicators li {
 
 .features{
 	overflow: hidden;
-	padding: 150px 0px 150px 0px;
+	padding: 20px 0px 150px 0px;
 	min-height: 400px;
 	color: black;
+	text-align:left;
 }
 
 .purchase h4{
