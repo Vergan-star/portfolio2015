@@ -1,0 +1,176 @@
+.form-horizontal .control-label{
+}
+
+<section class="padding-80" id="contact">
+             <div class="container">
+                <div class="row">
+                    <div class="col-md-12">
+                        <h1 class="section-heading">Drop me a line</h1>
+                    </div>
+                </div>
+                 <div class="row">
+                     <div class="col-md-12">
+                         <form data-wow-delay="0.3s" class="wow animated fadeIn animated" style="visibility: visible; animation-delay: 0.3s; animation-name: fadeIn;">
+                             <div class="row">
+                                 <div class="col-md-6">
+                                     <input type="text" placeholder="Name..." class="form-control">
+                                 </div>
+                                 <div class="col-md-6">
+                                     <input type="email" placeholder="Email..." class="form-control">
+                                 </div>
+                                    <div class="col-md-6">
+                                     <input type="text" placeholder="Subject..." class="form-control">
+                                 </div>
+                                    <div class="col-md-6">
+                                     <input type="text" placeholder="Website..." class="form-control">
+                                 </div>
+                                  <div class="col-md-12">
+                                      <textarea placeholder="Your Message..." rows="8" class="form-control"></textarea>
+                                 </div>
+                                  <div class="col-md-12 text-right">
+                                      <button data-wow-delay="0.6s" class="btn btn-lg btn-theme-color wow animated fadeInLeft animated" type="submit" style="visibility: visible; animation-delay: 0.6s; animation-name: fadeInLeft;">Send Message</button>
+                                 </div>
+                             </div>
+                         </form>
+                     </div>
+                 </div>
+            </div>
+        </section>
+
+<section class="padding-80" id="work">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-12">
+                        <h1 class="section-heading wow animated bounceIn animated" style="visibility: visible; animation-name: bounceIn;">my Recent work</h1>
+                    </div>
+                </div>
+            </div>
+            <div class="work-section-1">              
+                <div class="container">
+                    <div class="row">
+                        <div class="col-md-12">
+                            <ul class="portfolio-filters text-center">
+                                <li data-filter="all" class="filter active">all</li>
+                                <li data-filter="design" class="filter">design</li>
+                                <li data-filter="html" class="filter">HTML5</li>
+                                <li data-filter="wordpress" class="filter">Wordpress</li>
+                                <li data-filter="seo" class="filter">Seo</li>
+                            </ul><!--.portfolio-filter nav-->
+
+                            <div class="row" id="grid">
+                                <div class="mix col-md-4 col-sm-6 design margin-btm-20 mix_all" style="display: inline-block;  opacity: 1;">
+                                    <a href="single-work.html">
+                                        <div class="image-wrapper">
+                                            <img alt="work-1" class="img-responsive" src="img/sec-img1.jpg">
+                                            <div class="image-overlay">
+                                                <p>
+                                                    View Detail
+                                                </p>
+                                            </div><!--.image-overlay-->
+                                        </div><!--.image-wrapper-->                                      
+                                    </a>
+                                    <div class="work-sesc">
+
+                                        <p>
+                                            Web design
+                                        </p>
+                                    </div><!--.work-desc-->
+                                </div><!--work item-->
+                                <div class="mix col-md-4 col-sm-6 html margin-btm-20 mix_all" style="display: inline-block;  opacity: 1;">
+                                    <a href="single-work.html">
+                                        <div class="image-wrapper">
+                                            <img alt="work-1" class="img-responsive" src="img/sec-img2.jpg">
+                                            <div class="image-overlay">
+                                                <p>
+                                                    View Detail
+                                                </p>
+                                            </div><!--.image-overlay-->
+                                        </div><!--.image-wrapper-->                                      
+                                    </a>
+                                    <div class="work-sesc">
+
+                                        <p>
+                                            HTML5
+                                        </p>
+                                    </div><!--.work-desc-->
+                                </div><!--work item-->
+                                <div class="mix col-md-4 col-sm-6 wordpress design margin-btm-20 mix_all" style="display: inline-block;  opacity: 1;">
+                                    <a href="single-work.html">
+                                        <div class="image-wrapper">
+                                            <img alt="work-1" class="img-responsive" src="img/sec-img3.jpg">
+                                            <div class="image-overlay">
+                                                <p>
+                                                    View Detail
+                                                </p>
+                                            </div><!--.image-overlay-->
+                                        </div><!--.image-wrapper-->                                      
+                                    </a>
+                                    <div class="work-sesc">
+
+                                        <p>
+                                            Wordpress/web Design
+                                        </p>
+                                    </div><!--.work-desc-->
+                                </div><!--work item-->
+                                <div class="mix col-md-4 col-sm-6 seo margin-btm-20 mix_all" style="display: inline-block;  opacity: 1;">
+                                    <a href="single-work.html">
+                                        <div class="image-wrapper">
+                                            <img alt="work-1" class="img-responsive" src="img/sec-img4.jpg">
+                                            <div class="image-overlay">
+                                                <p>
+                                                    View Detail
+                                                </p>
+                                            </div><!--.image-overlay-->
+                                        </div><!--.image-wrapper-->                                      
+                                    </a>
+                                    <div class="work-sesc">
+
+                                        <p>
+                                            Seo
+                                        </p>
+                                    </div><!--.work-desc-->
+                                </div><!--work item-->
+                                <div class="mix col-md-4 col-sm-6 design margin-btm-20 mix_all" style="display: inline-block;  opacity: 1;">
+                                    <a href="single-work.html">
+                                        <div class="image-wrapper">
+                                            <img alt="work-1" class="img-responsive" src="img/sec-img5.jpg">
+                                            <div class="image-overlay">
+                                                <p>
+                                                    View Detail
+                                                </p>
+                                            </div><!--.image-overlay-->
+                                        </div><!--.image-wrapper-->                                      
+                                    </a>
+                                    <div class="work-sesc">
+
+                                        <p>
+                                            Web design
+                                        </p>
+                                    </div><!--.work-desc-->
+                                </div><!--work item-->
+                                <div class="mix col-md-4 col-sm-6 html seo margin-btm-20 mix_all" style="display: inline-block;  opacity: 1;">
+                                    <a href="single-work.html">
+                                        <div class="image-wrapper">
+                                            <img alt="work-1" class="img-responsive" src="img/sec-img6.jpg">
+                                            <div class="image-overlay">
+                                                <p>
+                                                    View Detail
+                                                </p>
+                                            </div><!--.image-overlay-->
+                                        </div><!--.image-wrapper-->                                      
+                                    </a>
+                                    <div class="work-sesc">
+
+                                        <p>
+                                            Html/Seo
+                                        </p>
+                                    </div><!--.work-desc-->
+                                </div><!--work item-->
+                         
+                             
+                            </div><!--#grid for filter items-->
+                        </div><!--.col-md-12 of portfolio filter-->
+                    </div><!--.row-->
+                </div><!--.contianer-->
+            </div><!--work section 1-->
+        </section>
